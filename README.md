@@ -1,5 +1,9 @@
 # Protótipo SIEM/SOAR — Gestão de Incidentes de Cibersegurança
 
+Leonor Pereira – 104810
+Luís Salazar – 104507
+Malam Sanhá – 125754
+
 ## Arquitetura
 
 ```
