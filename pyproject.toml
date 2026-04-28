@@ -1,0 +1,8 @@
+[project]
+name = "siem-soar-ransomware-prototype"
+version = "1.1.0"
+description = "Protótipo de validação da arquitetura SIEM/SOAR para o trabalho de Segurança e Criptografia em Redes de Comunicação - ISCTE"
+requires-python = ">=3.8"
+dependencies = [
+    "cryptography>=42.0.0"
+]
